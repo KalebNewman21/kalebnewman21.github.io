@@ -1,0 +1,28 @@
+/*#logoBarTop{
+  box-sizing: border-box;
+  height: 87px;
+}*/
+#logoBarTop p{
+  margin-left: 28%;
+}
+#companyTitle strong{
+  font-size: 40px;
+  font-family: 'Notable', sans-serif;
+}
+
+#logoTop{}
+#navigationBar{
+  background: silver;
+  text-align: center;
+}
+#navigationBar span{
+  margin-left: 14px;
+  margin-right: 14px;
+}
+#navigationBar a{
+  text-decoration: none;
+  color: white;
+}
+text {
+  font-family: 'Notable', sans-serif;
+}
